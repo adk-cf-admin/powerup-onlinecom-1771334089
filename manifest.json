@@ -1,0 +1,19 @@
+{
+  "name": "PowerUp Casino",
+  "short_name": "PowerUp Casino",
+  "theme_color": "",
+  "background_color": "#082330",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1771332169-favicon-38.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
